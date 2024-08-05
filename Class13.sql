@@ -1,3 +1,4 @@
+USE sakila;
 #Add a new customer
 
 INSERT INTO customer (store_id, first_name, last_name, email, address_id, active, create_date)
